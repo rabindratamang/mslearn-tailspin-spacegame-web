@@ -1,5 +1,6 @@
 [![Build Status](https://dev.azure.com/rabindratamang147/Space%20team%20git/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/rabindratamang147/Space%20team%20git/_build/latest?definitionId=2&branchName=master)
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=rabindratamang_mslearn-tailspin-spacegame-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=rabindratamang_mslearn-tailspin-spacegame-web)
 
 # Contributing
 
