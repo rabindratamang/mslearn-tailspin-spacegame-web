@@ -1,0 +1,7 @@
+organization=rabindratamang
+projectKey=rabindratamang_mslearn-tailspin-spacegame-web
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8217
+dashboardUrl=https://sonarcloud.io/dashboard?id=rabindratamang_mslearn-tailspin-spacegame-web
+ceTaskId=AXJFZgISrfv76787hb1y
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXJFZgISrfv76787hb1y
